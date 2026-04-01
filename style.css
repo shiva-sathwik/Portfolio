@@ -1,0 +1,30 @@
+.left {
+    width: 20%;
+    background-color: #F1F3F4;
+    padding: 5%;
+    border-radius: 5px;
+}
+.right {
+    width: 80%;
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: %;
+}
+.container {
+    display: flex;
+    height: 100%max-content;
+}
+body{
+    border: 20px #000000;
+    padding: 1%;
+    background-color: #F8FAF9;
+}
+.container1 {
+            width: auto;
+            margin: 100px auto;
+            margin-left: 3%;
+            padding: 20px;
+            background: #EBF2FA;
+            border-radius: 10px;
+            box-shadow: 2px 1px 36px #808080;
+        }
